@@ -2,6 +2,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+__pycache__
+*/__pycache__/*
+
 # General
 .DS_Store
 .AppleDouble
